@@ -1,5 +1,5 @@
 const fs = require('fs');
-const icons = './path-to-file';
+const icons = './0x8553DffF61e86DC33b007fc0789B81492aD2789c.svg';
 const actualIcons = fs.readdirSync(icons);
 const web3 = require('web3');
 const utils = web3.utils;

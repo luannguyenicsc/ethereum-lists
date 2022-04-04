@@ -18,10 +18,12 @@ function createContractFiles() {
       const obj = JSON.parse(
         fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, 'utf8')
       );
+      console.log('rrrrrrrrrrrrr', obj);
       obj.address = utils.toChecksumAddress(obj.address);
       contractArray.push(obj);
     });
     const writeArray = contractArray.sort(function(a, b) {
+      console.log('BUG:   ', a, b);
       let aSym = a.name.toLowerCase();
       let bSym = b.name.toLowerCase();
       return aSym < bSym ? -1 : aSym > bSym ? 1 : 0;
