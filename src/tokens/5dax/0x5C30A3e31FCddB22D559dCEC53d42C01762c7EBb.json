@@ -1,0 +1,27 @@
+{
+  "symbol": "5DAX",
+  "name": "5DAX",
+  "type": "ERC20",
+  "address": "0x5C30A3e31FCddB22D559dCEC53d42C01762c7EBb",
+  "ens_address": "",
+  "decimals": 0,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
