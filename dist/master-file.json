@@ -1,13 +1,1 @@
-[
-  {
-    "network": "5dax",
-    "symbol": "5DAX",
-    "name": "5DAX",
-    "decimals": 0,
-    "contract_address": "0x5C30A3e31FCddB22D559dCEC53d42C01762c7EBb",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/-0x5C30A3e31FCddB22D559dCEC53d42C01762c7EBb.svg",
-    "icon_png": "",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/5dax/0x5C30A3e31FCddB22D559dCEC53d42C01762c7EBb.json",
-    "website": ""
-  }
-]
+[]
