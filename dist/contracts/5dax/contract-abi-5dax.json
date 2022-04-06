@@ -1,6 +1,6 @@
 [
   {
-    "contractName": "FRC20Token",
+    "contractName": "FsRC20Token",
     "address": "0x5C30A3e31FCddB22D559dCEC53d42C01762c7EBb",
     "abi": [
       {
